@@ -75,9 +75,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
 <dl>
   <dt> Allow Anyone to Create Tickets</dt>
   <dd>
@@ -88,8 +87,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br />
 
-</p>
 <p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <dl>
   <dt>Configure Agents</dt>
   <dd>
@@ -102,8 +102,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br />
 
-</p>
 <p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <dl>
   <dt>Configute Users</dt>
   <dd>
@@ -114,8 +115,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br />
 
-</p>
 <p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <dl>
   <dt>Configure SLA</dt>
   <dd>
@@ -127,8 +129,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br />
 
-</p>
 <p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <dl>
   <dt>Configure Help Topics</dt>
   <dd>
