@@ -99,7 +99,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <dl>
-  <dt>Configute Users</dt>
+  <dt>Configure Users</dt>
   <dd>
     <li>Agent Panel>Users>Add New</li>
     <li>Click "Add New User" and add users such as Homer and Luan</li>
